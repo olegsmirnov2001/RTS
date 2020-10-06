@@ -1,0 +1,50 @@
+mini SandP:
+http://export.finam.ru/export9.out?market=7&em=13944&code=MINISANDP500&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=18&mt=8&yt=2020&to=18.09.2020&p=8&f=MINISANDP500_190101_200918&e=.csv&cn=MINISANDP500&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+Hang Seng:
+http://export.finam.ru/export9.out?market=6&em=111&code=ZHC5&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=28&mt=8&yt=2020&to=28.09.2020&p=8&f=ZHC5_190101_200928&e=.csv&cn=ZHC5&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+Changhai Composite:
+http://export.finam.ru/export9.out?market=6&em=19101&code=SHANGHAI&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=28&mt=8&yt=2020&to=28.09.2020&p=8&f=SHANGHAI_190101_200928&e=.csv&cn=SHANGHAI&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+CSI200:
+http://export.finam.ru/export9.out?market=6&em=19594&code=INDEX.CSI200&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=28&mt=8&yt=2020&to=28.09.2020&p=8&f=INDEX.CSI200_190101_200928&e=.csv&cn=INDEX.CSI200&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+CSI300:
+http://export.finam.ru/export9.out?market=6&em=22837&code=INDEX.CSI300&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=28&mt=8&yt=2020&to=28.09.2020&p=8&f=INDEX.CSI300_190101_200928&e=.csv&cn=INDEX.CSI300&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+=====================================================================
+
+mini SandP:
+http://export.finam.ru/export9.out?market=7&em=13944&code=MINISANDP500&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=28&mt=8&yt=2020&to=28.09.2020&p=3&f=MINISANDP500_190101_200928_5min&e=.csv&cn=MINISANDP500&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+http://export.finam.ru/export9.out?market=7&em=13944&code=MINISANDP500&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=31&mt=2&yt=2019&to=31.03.2019&p=3&f=MINISANDP500_190101_190331&e=.csv&cn=MINISANDP500&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+
+http://export.finam.ru/export9.out?market=7&em=13944&code=MINISANDP500&apply=0&df=1&mf=0&yf=2019&from=01.01.2019&dt=31&mt=2&yt=2019&to=31.03.2019&p=3&f=MINISANDP500_5min&e=.csv&cn=MINISANDP500&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
+
+
+EUR/USD:
+market=5
+em=83
+code="EURUSD"
+
+S&P500:
+market = 6
+em = 19063
+code = "MINISANDP500"
+
+Brent:
+market = 24
+em = 19473
+code = "ICE.BRN"
+
+Light Sweet:
+market=24
+em=18948
+code="CL"
+
+Gold:
+market=24
+em=18953
+code="comex.GC"

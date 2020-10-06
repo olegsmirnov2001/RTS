@@ -1,0 +1,17 @@
+mini SP500 +
+Hang Seng +
+Shanghai composite +
+CSI200 -
+CSI300 -
+KOSPI
+N225jap
+comm/  Brent
+Light Sweet
+FX /   ED
+
+
+=====
+
+
+
+ZHC5 -
